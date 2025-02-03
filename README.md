@@ -9,8 +9,8 @@
 - 🚀 Looking for Help with Placements 🎯
 - 💬 Ask Me About Tech! 💡
 - 📫 How to Reach Me: ✉️
-  <br/> [<img src="https://img.shields.io/badge/Leetcode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://leetcode.com/u/Thiyagu_2024/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]()
+  <br/> [<img src="https://img.shields.io/badge/Leetcode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://leetcode.com/u/Thiyagu_2024/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiyagu-s-bb6a68287/)
 - 😄 Pronouns: Techie
 - ⚡ Fun Fact: I'm learning Japanese! 🇯🇵🎌 Excited to explore a new language and culture.
-### I code in
+### Technologies & Tools I use 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/><img height="50" width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
